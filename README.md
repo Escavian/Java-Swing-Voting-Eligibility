@@ -27,7 +27,8 @@ A simple Java Swing GUI application that asks the user for their **name** and **
 4. The GUI window will appear
 
 ## 📸 Screenshot (Optional)
-_Add a screenshot here once you take one._
+<img width="672" height="448" alt="image" src="https://github.com/user-attachments/assets/d95d6641-b406-4917-89e8-4b7c7b5799e1" />
+
 
 ## 📚 What I Learned
 - How to build a basic GUI using Java Swing  
